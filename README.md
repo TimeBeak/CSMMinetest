@@ -1,4 +1,4 @@
-# DEATH-COORDS-CSM-Minetest-
+# DEATH_COORDS_CSM_Minetest
 Show Death Coordinates
 
 Death Coords and FormSpec By Niden
@@ -11,4 +11,4 @@ Licence: MIT Licence
 
 Niden
 
-# screenshot.png
+![alt text](http://url/to/img.png)

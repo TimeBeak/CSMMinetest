@@ -5,7 +5,7 @@ Death Coords and FormSpec By Niden
 
 change the name to death_coords (optional)
 
-https://github.com/Niden1234/DEATH-COORDS-CSM-Minetest-
+https://github.com/Niden1/Death_Coords_CSM_Minetest_1.5
 
 Licence: MIT Licence
 

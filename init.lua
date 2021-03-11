@@ -1,11 +1,13 @@
 --Death Coords By Niden
+--Color
+--["FF0000"], ["00FF00"], ["0000FF"]
+--HTML
 
 core.register_on_death(function()
-  local pos = minetest.localplayer:get_pos(); minetest.display_chat_message((core.get_color_escape_sequence("#FF0000") .."DEAD AT: " .. pos.x .. " " .. pos.y .. " " .. pos.z ))
+  local pos = minetest.localplayer:get_pos(); minetest.display_chat_message((core.get_color_escape_sequence("#FF00FF") .."*** CSM - DEAD AT: " .. pos.x .. ", " .. pos.y .. ", " .. pos.z ))
 end
 )
-
---Death Coords FormSpec By Niden
+--No Support 4.17.0
 core.register_on_death(function()
 	core.display_chat_message("You died.")
 	local pos = minetest.localplayer:get_pos();

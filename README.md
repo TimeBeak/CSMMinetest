@@ -1,4 +1,4 @@
-# DEATH_COORDS_CSM_Minetest
+# death_coords
 Show Death Coordinates
 
 Death Coords By Niden
@@ -15,4 +15,4 @@ https://github.com/Niden1/Death_Coords_CSM_Minetest_1.3
 
 Licence: MIT Licence
 
-# Niden.
+# Niden

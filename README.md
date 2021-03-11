@@ -2,13 +2,15 @@
 Show Death Coordinates
 
 Death Coords By Niden
+Installation:
+Minetest/clientmods/death_coords
 
-change the name to death_coords (optional)
+You need to rename the folder to "death_coords"
 
-https://github.com/Niden1/Death_Coords_CSM_Minetest_1.3
-
+FormSpect
 ![screenshot](https://github.com/Niden1/Death_Coords_CSM_Minetest_1.5/blob/main/screenshot.png)
 
+Chat
 
 ![screenshot](https://github.com/Niden1/Death_Coords_CSM_Minetest_1.5/blob/main/screenshot2.png)
 
@@ -16,3 +18,5 @@ https://github.com/Niden1/Death_Coords_CSM_Minetest_1.3
 Licence: MIT Licence
 
 # Niden
+
+https://github.com/Niden1/Death_Coords_CSM_Minetest_1.5

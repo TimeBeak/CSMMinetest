@@ -3,7 +3,7 @@ Show Death Coordinates
 
 Death Coords By Niden
 Installation:
-- Minetest/clientmods/death_coords
+```Minetest/clientmods/death_coords```
 
 You need to rename the folder to "death_coords"
 

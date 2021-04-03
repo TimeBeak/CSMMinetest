@@ -2,6 +2,7 @@
 Show Death Coordinates
 
 Death Coords By Niden
+
 Installation:
 ```Minetest/clientmods/death_coords```
 

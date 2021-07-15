@@ -22,4 +22,4 @@ Discord: Niden#7063
 
 Licence: MIT Licence
 
-https://github.com/Niden1/Death_Coords_CSM_Minetest_1.5
+https://github.com/Niden1/CSMMinetest
